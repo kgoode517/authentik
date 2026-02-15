@@ -8456,10 +8456,6 @@ Gruplara/kullanıcılara yapılan bağlamalar, etkinliğin kullanıcısına kar�
   <source>Select one of the options below to continue.</source>
   <target>Devam etmek için aşağıdaki seçeneklerden birini belirleyin.</target>
 </trans-unit>
-<trans-unit id="s8cc0075913c67566">
-  <source>Enter the email associated with your account, and we'll send you a link to reset your password.</source>
-  <target>Hesabınızla ilişkili e-postayı girin, size şifrenizi sıfırlamanız için bir bağlantı gönderelim.</target>
-</trans-unit>
 <trans-unit id="s091d5407b5b32e84">
   <source>Or</source>
   <target>Veya</target>
@@ -10023,6 +10019,9 @@ Gruplara/kullanıcılara yapılan bağlamalar, etkinliğin kullanıcısına kar�
 </trans-unit>
 <trans-unit id="s7c37f1acb9f97ea3">
   <source>Select the email template to use for sending invitations.</source>
+</trans-unit>
+<trans-unit id="sf910cca0f06bbc31">
+  <source>Enter the email address or username associated with your account.</source>
 </trans-unit>
 </body>
 </file>
